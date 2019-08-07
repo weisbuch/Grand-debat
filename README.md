@@ -7,3 +7,12 @@ sont analysées par un traitement numérique simple et clair.
 Les termes pertinents dans l'ensemble des réponses à une question 
 sont comptabilisés et permettent ainsi l'extraction des données
 suivant la logique booléenne.
+
+Le fichier gdn_bigdata.pdf est un preprint décrivant la méthode et
+sont application au Grand Débat National.
+
+Le fichier gdn_exemple.ipynb est un exemple de la méthode appliquée
+à un ensemble de réponses rep_demo33 à une question du Grand Débat.
+
+Le fichier gdn_general.ipynb permet de choisir et de traiter n'importe
+quel ensemble de réponses saisies à partir du site https://granddebat.fr/pages/donnees-ouvertes
