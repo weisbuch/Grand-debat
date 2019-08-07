@@ -8,7 +8,7 @@ Les termes pertinents dans l'ensemble des réponses à une question
 sont comptabilisés et permettent ainsi l'extraction des données
 suivant la logique booléenne.
 
-Le fichier gdn_bigdata.pdf est un preprint décrivant la méthode et
+Le fichier gdn_bigdata4.pdf est un preprint décrivant la méthode et
 sont application au Grand Débat National.
 
 Le fichier gdn_exemple.ipynb est un exemple de la méthode appliquée
