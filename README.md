@@ -1,4 +1,4 @@
-# Grand-debat
+# Grand-débat
 
 Logiciel d'analyse des réponses au grand débat national
 
