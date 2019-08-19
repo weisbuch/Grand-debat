@@ -11,7 +11,7 @@ suivant la logique booléenne.
 Le fichier gdn_bigdata4.pdf est un preprint décrivant la méthode et
 sont application au Grand Débat National.
 
-File gdn-en2.pdf is an extended abstract of the Frenche language preprint.
+File gdn-en2.pdf is an extended abstract of the French language preprint.
 
 Le fichier gdn_exemple.ipynb est un exemple de la méthode appliquée
 à un ensemble de réponses rep_demo33 à une question du Grand Débat.
