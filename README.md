@@ -16,5 +16,5 @@ File gdn-en2.pdf is an extended abstract of the French language preprint.
 Le fichier gdn_exemple.ipynb est un exemple de la méthode appliquée
 à un ensemble de réponses rep_demo33 à une question du Grand Débat.
 
-Le fichier gdn_general.ipynb permet de choisir et de traiter n'importe
-quel ensemble de réponses saisies à partir du site https://granddebat.fr/pages/donnees-ouvertes
+Le fichier gdn_general2.ipynb permet de choisir et de traiter n'importe
+quel ensemble de réponses téléchargées à partir du site https://granddebat.fr/pages/donnees-ouvertes
