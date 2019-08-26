@@ -9,7 +9,7 @@ sont comptabilisés et permettent ainsi l'extraction des données
 suivant la logique booléenne.
 
 Le fichier gdn_bigdata4.pdf est un preprint décrivant la méthode et
-sont application au Grand Débat National.
+son application au Grand Débat National.
 
 File gdn-en2.pdf is an extended abstract of the French language preprint.
 
