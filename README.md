@@ -8,7 +8,7 @@ Les termes pertinents dans l'ensemble des réponses à une question
 sont comptabilisés et permettent ainsi l'extraction des données
 suivant la logique booléenne.
 
-Le fichier gdn_bigdata4.pdf est un preprint décrivant la méthode et
+Le fichier gdn_bigdata5.pdf est un preprint décrivant la méthode et
 son application au Grand Débat National.
 
 File gdn-en2.pdf is an extended abstract of the French language preprint.
